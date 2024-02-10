@@ -1,7 +1,13 @@
 <h2>👋 Hi there, I'm Dinithi Liyanage </h2> 
-- 👀 I am an undergraduate student studying at the Department of Computer Science and Engineering at the University of Moratuwa, Sri Lanka.
+<p>
+- 👀 I am a Computer Science and Engineering undergraduate.
+</p>
+<p>
 - 🔭 I’m currently working on full stack development projects.
+</p>
+<p>
 - 🌱 I’m currently learning mobile app development.
+</p>
 
 <h2>Find me on</h2>
 <span>
