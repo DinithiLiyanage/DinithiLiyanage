@@ -1,16 +1,34 @@
-### Hi there 👋
+<h2>👋 Hi there, I'm Dinithi Liyanage </h2> 
+- 👀 I am an undergraduate student studying at the Department of Computer Science and Engineering at the University of Moratuwa, Sri Lanka.
+- 🔭 I’m currently working on full stack development projects.
+- 🌱 I’m currently learning mobile app development.
 
-<!--
-**DinithiLiyanage/DinithiLiyanage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Find me on</h2>
+<span>
+  <a href="https://www.linkedin.com/in/dinithi-liyanage-175183268/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width=50/>
+  </a>
+</span>
 
-Here are some ideas to get you started:
+<h2>Languages and Tools</h2>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=50/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=50 /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=50 /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=50 /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width=50 /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width=50 /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=50 /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width=50 />  &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=50 /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=50 /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" width=50 /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width=50 /> &nbsp;  
+</div>
+<!-- <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" width=50/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width=50 /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=50 /> &nbsp;
+</div> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
