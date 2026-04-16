@@ -25,16 +25,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width=50 /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width=50 /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=50 /> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width=50 />  &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width=50 />  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=50 /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=50 /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" width=50 /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width=50 /> &nbsp;  
 </div>
-<!-- <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" width=50/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width=50 /> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=50 /> &nbsp;
-</div> -->
+
 
 
